@@ -27,4 +27,8 @@ public class Employee {
     public double getSuperRate() {
         return superRate;
     }
+
+    public String getEmployeeNumber() {
+        return employeeNumber;
+    }
 }
